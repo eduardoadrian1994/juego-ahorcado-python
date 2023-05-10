@@ -1,5 +1,5 @@
-# juego-ahorcado-python
-con el auspicio de Formar, bajo la Mentoria de trabajador IT experimentado de Globant y se desarrollo este juego del ahorcado en Python.
+# Juego-ahorcado-python
+Con el auspicio de Formar, bajo la Mentoria de trabajador IT experimentado de Globant y se desarrollo este juego del ahorcado en Python.
 
 ---
 
