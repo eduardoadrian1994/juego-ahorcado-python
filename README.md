@@ -15,7 +15,7 @@ Con el auspicio de Formar, bajo la Mentoria de trabajador IT experimentado de Gl
 
 ## 💡 El motivo del Challenge
 
-  El motivo del Challenge es evaluar del evaluado:
+  Es evaluar del evaluado:
   capacidad de conseguir información, 
   como ser autodidacta en el proceso y 
   si esta haciendo las preguntas correctas a la hora de programar.
